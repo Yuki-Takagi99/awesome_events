@@ -65,3 +65,4 @@ gem 'kaminari', '~> 1.2.0'
 gem 'searchkick', '~> 4.3.0'
 gem 'simplecov', require: false, group: :test
 gem 'coveralls', require: false, group: :test
+gem 'skylight'
